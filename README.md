@@ -22,7 +22,7 @@ I am a precise, constant and fast learner person, I really enjoy to be part of a
 <p>&nbsp;</p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/angelo carnemolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo carnemolla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angelo-carnemolla-84326a201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo carnemolla" height="30" width="40" /></a>
 <a href="https://instagram.com/tripway_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tripway_" height="30" width="40" /></a>
 </p>
 

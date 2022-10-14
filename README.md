@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I am Angelo, welcome to my profile!</h1>
+<h1 align="center">Hey there! 👋 I am Angelo,</br> welcome to my profile!</h1>
 
 <h3 align="center">I'm a Junior Full Stack Developer based in Bologna, Italy. New Technologies, Music and Videogames are my passions for as long as i can remember.</h3>
 

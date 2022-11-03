@@ -10,7 +10,7 @@
 
 <h4>Something about me:</h4>
 
-I am a *Composer and Sound designer for Media* who studied at the conservatory for his Bachelor and Master of Arts programs, after this I have decided
+I am a *Composer and Sound designer for Media* who studied at the conservatory for his Bachelor and Master of Arts programs, after that I have decided
 to pursue one of my biggest passion: **Web Development.** 💻
 I am a precise, constant and fast learner person, I really enjoy to be part of a *collaborative team* but I could also easily be a *lone hard worker* :wolf:.
 

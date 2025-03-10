@@ -16,9 +16,6 @@ I am a precise, constant and fast learner person, I really enjoy to be part of a
 
 ---
 
-* 🔭 I’m currently working on the Playstation WebSite Clone with my Team. 
- Here the link of the repo: https://github.com/stefaniazocco/playstationCloneProject.git
-* 🌱 I’m currently learning **React.js / TypeScript / Node.js**
 <p>&nbsp;</p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
